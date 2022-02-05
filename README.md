@@ -1,6 +1,6 @@
 # VR-Flappy-Bird
 
- Unity Version - 2017.1.1f1.1
+ Unity Version - 2017.1.1f1.1\n
  Google VR SDK - 1.110.0
  Java JDK - 1.8
  External assets 
